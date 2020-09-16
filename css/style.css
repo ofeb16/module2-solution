@@ -1,12 +1,12 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+  margin: 15px;
+  padding: 15px;
 }
 
 h1 {
-  margin-bottom: 15px;
+  margin-bottom: 35px;
   text-align:center;
 }
 
@@ -17,7 +17,7 @@ h1 {
     position:relative;
     width:100%;
     height:auto;
-    padding:25px;
+    padding:35px;
     background:grey;
     margin-left:2%;
     margin-bottom:3%;
@@ -104,7 +104,7 @@ h1 {
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
-    border: 3px solid black;
+    border: 1px solid black;
 
   }
   .col-lg-1 {
@@ -149,7 +149,7 @@ h1 {
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
-    border: 3px solid black;
+    border: 1px solid black;
     
     
   }
@@ -195,7 +195,7 @@ h1 {
 @media (max-width: 767px) {
   .col-s-1, .col-s-2, .col-s-3, .col-s-4, .col-s-5, .col-s-6, .col-s-7, .col-s-8, .col-s-9, .col-s-10, .col-s-11, .col-s-12 {
     float: left;
-    border: 3px solid black;
+    border: 1px solid black;
    
     
     
