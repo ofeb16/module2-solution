@@ -19,7 +19,7 @@ h1 {
     height:auto;
     padding:35px;
     background:grey;
-    margin-left:2%;
+    margin-left:1%;
     margin-bottom:3%;
     text-align:justify;
 
@@ -33,7 +33,7 @@ h1 {
   right:0;
   border: 1px solid black;
   background-color: #F08080;
-  width: 100%;
+  width: auto;
   height: auto;
   margin-top:0;
   margin-right:0;
@@ -52,7 +52,7 @@ h1 {
   right:0;
   border: 1px solid black;
   background-color: #A52A2A;
-  width: 100%;
+  width: auto;
   height: auto;
   margin-top:0;
   margin-right:0;
@@ -75,7 +75,7 @@ h1 {
   border: 1px solid black;
   background-color: #F5DEB3;
   color:black;
-  width: 100%;
+  width: auto;
   height: auto;
   margin-top:0;
   margin-right:0;
